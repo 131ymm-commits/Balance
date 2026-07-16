@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Balance — The Un-Buyable Recommender: design, test stand, and predictor program"
+type: software
+authors:
+  - name: "131ym"
+date-released: "2026-07-16"
+version: "0.1.0"
+url: "https://github.com/131ymm-commits/balance"
+license: MIT
+abstract: >-
+  An outcome-ranked, structurally un-buyable recommender design, together with
+  a pre-registered, falsifiable agent-based test stand. Main finding: the honest
+  index has no endogenous growth loop under time, seeding, retention, retro-audit,
+  signal network effects, coalition stimulus, Schelling focal forecasts or
+  performative forecasting; the single sufficient, reproducible condition for
+  sustained growth is an irreversible reduction of the switching cost.
